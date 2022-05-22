@@ -5,8 +5,11 @@
 ## Guides
 
 * [Technology ETF](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [Cybersecurity ETFs](guides/cybersecurity-etfs.md)
+* [Energy ETFs](guides/energy-etfs.md)
+* [Biotech ETF](guides/biotech-etf.md)
+* [Consumer ETF](guides/consumer-etf.md)
+* [Growth Stock ETFs](guides/growth-stock-etfs.md)
 
 ## Fundamentals
 

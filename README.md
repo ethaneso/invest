@@ -38,12 +38,12 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [creating-your-first-project.md](guides/creating-your-first-project.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/creating-your-first-task.md" %}
-[creating-your-first-task.md](guides/creating-your-first-task.md)
+{% content-ref url="guides/cybersecurity-etfs.md" %}
+[cybersecurity-etfs.md](guides/cybersecurity-etfs.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/advanced-permissions.md" %}
-[advanced-permissions.md](guides/advanced-permissions.md)
+{% content-ref url="guides/energy-etfs.md" %}
+[energy-etfs.md](guides/energy-etfs.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
