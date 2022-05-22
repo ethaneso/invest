@@ -162,47 +162,106 @@ as of 04/30/2022
 
 ### SMH（VanEck Vectors Semiconductor ETF） <a href="#smh-vaneck-vectors-semiconductor-etf" id="smh-vaneck-vectors-semiconductor-etf"></a>
 
-
+The ETF focuses on investing in the semiconductor industry, holding only 25 stocks, tracking the US Listed Semiconductor 25 Index Index, and its top 5 positions are TSMC, Nvidia, Intel, and AMD Qualcomm, accounting for almost 40%. Its management fee is 0.35%. Official website:\
+\
+\
+[https://www.vaneck.com/etf/equity/smh/overview/](https://www.vaneck.com/etf/equity/smh/overview/)
 
 ### SOXX（iShares PHLX Semiconductor ETF） <a href="#soxx-ishares-phlx-semiconductor-etf" id="soxx-ishares-phlx-semiconductor-etf"></a>
 
-
+This ETF also focuses on investing in the semiconductor industry, tracking the Philadelphia Semiconductor Index, which holds about 30 stocks, and the top 5 positions are NVIDIA, Qualcomm, Texas Instruments, Broadcom, and Intel, accounting for almost 40%. One of the biggest differences from SMH is that this ETF uses a small amount of leverage! For example, it will do long FUTURES CONTRACTS FOR THE SELECT SECTOR AND THE RUSSELL 2000 INDEX. Its management fee is 0.46%. Official website:\
+\
+\
+[https://www.ishares.com/us/products/239705/ishares-phlx-semiconductor-etf](https://www.ishares.com/us/products/239705/ishares-phlx-semiconductor-etf)
 
 ### FIVG（Defiance Next Gen Connectivity ETF） <a href="#fivg-defiance-next-gen-connectivity-etf" id="fivg-defiance-next-gen-connectivity-etf"></a>
 
+This ETF mainly invests in U.S. Internet and communications-related stocks, holding a total of more than 70 stocks, relatively dispersed, the top 10 positions of about 35%, the current top 3 positions are Qualcomm, NXP, Ericsson, like NVIDIA, Apple, Giants such as Amazon have smaller positions. The management fee is 0.3%.
 
+Official website:\
+[https://www.defianceetfs.com/FIVG](https://www.defianceetfs.com/FIVG)
 
 ### SRVR（Pacer Benchmark Data & Infrastructure Real Estate SCTR ETF） <a href="#srvr-pacer-benchmark-data-infrastructure-real-estate-sctr-etf" id="srvr-pacer-benchmark-data-infrastructure-real-estate-sctr-etf"></a>
 
-
+The ETF, which focuses on investing in data center-related infrastructure types of real estate companies, holds fewer than 20 stocks, of which the top 3 positions are EQIX, AMT and CCI These three data center giants account for more than 40% of their positions. Its management fee is 0.6%. Official website:\
+\
+\
+[https://www.paceretfs.com/products/srvr](https://www.paceretfs.com/products/srvr)
 
 ### TDIV（First Trust NASDAQ Technology Dividend Index Fund） <a href="#tdiv-first-trust-nasdaq-technology-dividend-index-fund" id="tdiv-first-trust-nasdaq-technology-dividend-index-fund"></a>
 
-
+The ETF focuses on investing in NASDAQ-listed technology stocks, and its constituents require companies to pay dividends on a regular basis, weighted by the total dividends paid by the company over the past 12 months. It holds a total of about 90 positions, the top 3 positions are Apple, Microsoft, IBM, the top 10 positions account for about 50%. The management fee is 0.5%. Official website:\
+\
+\
+[https://www.ftportfolios.com/retail/etf/ETFsummary.aspx?Ticker=TDIV](https://www.ftportfolios.com/retail/etf/ETFsummary.aspx?Ticker=TDIV)
 
 ### SKYY（First Trust Cloud Computing ETF） <a href="#skyy-first-trust-cloud-computing-etf" id="skyy-first-trust-cloud-computing-etf"></a>
 
-
+As the name suggests, this ETF focuses on investing in cloud-related companies. There are 64 constituent stocks, none of which have more than 5% of the positions, and the top 10 positions account for about 35%. The top 4 positions are the four giants of Amazon, Microsoft, Alibaba and Google, and other positions include database companies ORCL, MDB, ESTC, and CDN CLDR, FSLY, cybersecurity companies ZS, PANW, FEYE, and ZM, WK, SHOP, DOCU and other cloud-based service companies, this ETF of course performed well, the management fee of 0.6% is slightly more expensive. Official website:\
+\
+\
+[https://www.ftportfolios.com/Retail/Etf/EtfHoldings.aspx?Ticker=SKYY](https://www.ftportfolios.com/Retail/Etf/EtfHoldings.aspx?Ticker=SKYY)
 
 ### CLOU（Global X Cloud Computing ETF） <a href="#clou-global-x-cloud-computing-etf" id="clou-global-x-cloud-computing-etf"></a>
 
-
+Another ETF focused on investing in cloud-related companies, with about 35 constituents, and SKYY, its top few positions are not Amazon Google, but medium-sized companies, such as ZM, TWLO, and ZS, CRM, SHOP, its position is slightly concentrated, the top 5 positions account for about 30%, and the proportion of the position of the big Mac company is very low, So it should focus more on the growth of small and medium-sized companies. Its management fee is slightly more expensive than 0.68%. Official website:\
+\
+\
+[https://www.globalxetfs.com/funds/clou/](https://www.globalxetfs.com/funds/clou/)
 
 ### WCLD (WisdomTree Cloud Computing Fund) <a href="#wcld-wisdomtree-cloud-computing-fund" id="wcld-wisdomtree-cloud-computing-fund"></a>
 
-
+This ETF is similar to CLOU, with more than 50 positions, and also focuses on small and medium-sized companies, except that its positions are more diversified, and none of the constituent stocks exceed 3% or less than 1.5%. Its management fee is 0.45%. Official website:\
+\
+\
+[https://www.wisdomtree.com/etfs/thematic/wcld](https://www.wisdomtree.com/etfs/thematic/wcld)
 
 ### ARKQ（ARK Autonomous Technology & Robotics ETF） <a href="#arkq-ark-autonomous-technology-robotics-etf" id="arkq-ark-autonomous-technology-robotics-etf"></a>
 
+This ETF mainly invests in the following areas:
 
+* Autonomous Transportation
+* Robotics and Automation
+* 3D Printing
+* Energy Storage
+* Space Exploration
+
+\
+It has about 40 constituent stocks, the top 10 positions account for about 50%, the first position is TSLA, the top 10 positions are mostly small and medium-sized companies, except for Google, other giant companies are ranked 20 Later. The management fee is a bit expensive at 0.75%. Official website:
 
 ### ARKW（ARK Next Generation Internet ETF） <a href="#arkw-ark-next-generation-internet-etf" id="arkw-ark-next-generation-internet-etf"></a>
 
+This ETF mainly invests in the following areas:
 
+* Cloud Computing & Cyber Security
+* E-Commerce
+* Big Data & Artificial Intelligence (AI)
+* Mobile Technology and Internet of Things
+* Social Platforms
+* Blockchain & P2P
+
+\
+It has about 40 constituent stocks, the top three positions are TSLA, ROKU, SQ, accounting for 20%, the remaining constituent stocks do not exceed 4%, and the positions are mainly biased towards small and medium-sized companies. The management fee is 0.76% expensive. Official website:\
+\
+\
+[https://ark-funds.com/arkw](https://ark-funds.com/arkw)
 
 ### ARKF（ARK Fintech Innovation ETF） <a href="#arkf-ark-fintech-innovation-etf" id="arkf-ark-fintech-innovation-etf"></a>
 
+This ETF mainly invests in the following areas:
 
+* Transaction Innovations
+* Blockchain Technology
+* Risk Transformation
+* Frictionless Funding Platforms
+* Customer Facing Platforms
+* New Intermediaries
+
+\
+It holds about 40 stocks, the first position is SQ, accounting for more than 10%, the remaining constituent stocks do not exceed 5%, Tencent is also its top 5 positions, it also holds some Hong Kong stocks. The management fee is 0.75% expensive. Official website:\
+\
+\
+[https://ark-funds.com/fintech-etf](https://ark-funds.com/fintech-etf)
 
 ### IXN（iShares Global Tech ETF） <a href="#ixn-ishares-global-tech-etf" id="ixn-ishares-global-tech-etf"></a>
 
