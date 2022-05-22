@@ -4,7 +4,7 @@
 
 ## Guides
 
-* [Creating your first project](guides/creating-your-first-project.md)
+* [Technology ETF](guides/technology-etf.md)
 * [Creating your first task](guides/creating-your-first-task.md)
 * [Advanced permissions](guides/advanced-permissions.md)
 
