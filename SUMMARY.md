@@ -2,14 +2,14 @@
 
 * [What is MyProduct?](README.md)
 
-## Guides
+## ETFs
 
-* [Technology ETF](guides/creating-your-first-project.md)
-* [Cybersecurity ETFs](guides/cybersecurity-etfs.md)
-* [Energy ETFs](guides/energy-etfs.md)
-* [Biotech ETF](guides/biotech-etf.md)
-* [Consumer ETF](guides/consumer-etf.md)
-* [Growth Stock ETFs](guides/growth-stock-etfs.md)
+* [Technology ETF](etfs/technology-etf.md)
+* [Cybersecurity ETFs](etfs/cybersecurity-etfs.md)
+* [Energy ETFs](etfs/energy-etfs.md)
+* [Biotech ETF](etfs/biotech-etf.md)
+* [Consumer ETF](etfs/consumer-etf.md)
+* [Growth Stock ETFs](etfs/growth-stock-etfs.md)
 
 ## Fundamentals
 
