@@ -34,8 +34,8 @@ Here are a couple of examples of succinct overviews from products with really gr
 
 Follow our handy guides to get started on the basics as quickly as possible:
 
-{% content-ref url="guides/technology-etf.md" %}
-[technology-etf.md](guides/technology-etf.md)
+{% content-ref url="guides/creating-your-first-project.md" %}
+[creating-your-first-project.md](guides/creating-your-first-project.md)
 {% endcontent-ref %}
 
 {% content-ref url="guides/creating-your-first-task.md" %}

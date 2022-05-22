@@ -229,3 +229,4 @@ focus on telecommunication and infrastructure
 cross borders with 50 stocks
 
 management fee: 0.65%
+
